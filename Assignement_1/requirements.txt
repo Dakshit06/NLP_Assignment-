@@ -1,0 +1,6 @@
+# Install packages with: pip install --user -r requirements.txt
+spacy>=3.5.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+# After installing packages, download the SpaCy model with:
+# python -m spacy download en_core_web_sm
